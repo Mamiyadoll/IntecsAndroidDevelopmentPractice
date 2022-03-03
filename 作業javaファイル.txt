@@ -2,6 +2,8 @@ public static void main(String[] args){
 
 System.out.println("こんにちは");
 
+//追加
+
 System.out.println("こんばんわ母");
 
 }
